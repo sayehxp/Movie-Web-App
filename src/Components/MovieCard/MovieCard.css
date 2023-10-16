@@ -1,0 +1,35 @@
+
+
+.overview{
+min-height: 200px;
+height: 200px;
+word-wrap:break-word;
+overflow: hidden;
+}
+
+
+.MovieCard{
+width: 25rem !important;
+align-self: flex-start !important;
+height: 250px;
+
+box-shadow: 1px 1px 7px 0px #605757;
+}
+
+.MovieBody{
+    display: flex;
+    flex-direction: column;
+
+  
+}
+
+
+.container-btns{
+    border-top: 1px solid rgba(128, 128, 128, 0.637);
+    padding-top: 15px;
+}
+
+i.fa-heart:hover{
+cursor: pointer;
+color: rgb(237, 42, 75) !important;
+}

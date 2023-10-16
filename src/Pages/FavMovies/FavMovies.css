@@ -1,0 +1,10 @@
+.FavMovies .MovieCard{
+width: 300px !important;
+font-size: 14px;
+
+}
+
+
+.FavMovies{
+min-height: 77vh;
+}

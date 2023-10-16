@@ -1,0 +1,26 @@
+.Pagination{
+    padding-bottom:20px !important;
+    
+}
+.Pagination * {
+    color: white !important
+}
+.Pagination button{
+  padding-block: 8px;
+}
+
+.Pagination ul{
+    padding: 0 !important;
+    margin: 0 !important;
+    margin-inline: 40px !important;
+}
+
+.Pagination ul li{
+    padding-block: 6px !important;
+}
+
+.Pagination ul li:hover{
+    cursor: pointer;
+}
+
+/* *{border: 1px solid blue;} */
